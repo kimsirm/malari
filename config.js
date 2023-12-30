@@ -5,15 +5,15 @@ import fs from 'fs'
 
 //Owner Numbers 
 global.owner = [
-  ['254712703241', '𝓜𝓪𝓵𝓲𝓫𝓾', false],
+  ['923195832822', 'Crown', false],
   [''], 
   [''],
 ]
 
 //global.pairingNumber = "" //put your bot number here
-global.mods = ['254712703241'] 
-global.prems = ['254712703241']
-global.allowed = ['254712703241']
+global.mods = ['923195832822'] 
+global.prems = ['923195832822']
+global.allowed = ['923195832822']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -37,16 +37,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝓜𝓐𝓛𝓘𝓑𝓤 𝓑𝓞𝓣 '
-global.princebot = '🛡️𝓜𝓐𝓛𝓘𝓑𝓤 𝓑𝓞𝓣🛡️'
-global.packname = '𝓜𝓐𝓛𝓘𝓑𝓤♥️' 
-global.author = '𝓜𝓐𝓛𝓘𝓑𝓤♥️' 
+global.botname = '𝐒𝐦𝐚𝐥𝐥𝐜 '
+global.princebot = '🛡️𝐒𝐦𝐚𝐥𝐥𝐜🛡️'
+global.packname = 'Crown♥️' 
+global.author = 'Crown♥️' 
 global.princeig = 'https://www.instagram.com' 
-global.princegp = 'https://chat.whatsapp.com/H3T9SI97DnOIgXc4VkuXSz'
-global.menuvid = 'https://telegra.ph/file/e267666c55718884caf35.mp4'
-global.Princesc = 'https://github.com/owlai01/malibu' 
+global.princegp = 'https://chat.whatsapp.com/BuCCNsbiFIf5jk2UfT8zO0'
+global.menuvid = 'https://i.imgur.com/LervA0z.mp4'
+global.Princesc = 'https://github.com/kimsirm/smallc' 
 global.princeyt = 'https://youtube.com/'
-global.Princelog = 'https://telegra.ph/file/bd6345298eefdf3fdd027.jpg'
+global.Princelog = 'https://telegra.ph/file/0834b684e1bf084da32cd.jpg'
 global.thumb = fs.readFileSync('./Assets/Prince.png')
 
 global.wait = '*♻️ _𝙶𝙴𝚃𝚃𝙸𝙽𝙶 𝚈𝙾𝚄𝚁 𝙵𝙸𝙻𝙴 𝚆𝙰𝙸𝚃..._*\n*▰▰▰▱▱▱▱▱*'

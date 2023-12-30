@@ -1,10 +1,10 @@
 {
-  "name": "whatsapp-bot (MALIBU-BOT)",
+  "name": "whatsapp-bot (Smallc-BOT)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/owlai01/malibu",
+  "repository": "https://github.com/kimsirm/smallc",
   "stack": "container",
   "env": {
        "DATABASE_URL": {

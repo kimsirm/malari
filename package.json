@@ -1,5 +1,5 @@
 { 
-    "name": "malibu bot",
+    "name": "smallc bot",
     "version": "2.0.0",
     "description": "Advanced WhatsApp Bot",
     "main": "index.js",
@@ -25,16 +25,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/owlai01/malibu",
+    "homepage": "https://github.com/kimsirm/smallc",
     "author": {
-        "name": "MALIBU"
+        "name": "Crown"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/PRINCE-GDS/THE-PRINCE-BOT.git"
+        "url": "git+https://github.com/kimsirm/THE-SMALLC-BOT.git"
     },
     "bugs": {
-        "url": "https://github.com/owlai01/malibu/issues"
+        "url": "https://github.com/okimsirm/smallc/issues"
     },
     "license": "Apache License 2.0",
     "dependencies": {

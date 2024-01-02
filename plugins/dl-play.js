@@ -15,11 +15,11 @@ const handler = async (m, {
     args,
     usedPrefix
 }) => {
-    if (!text) throw `give a text to search Example: *${usedPrefix + command}* mujhe rang de naat`;
+    if (!text) throw `give a text to search Example: *${usedPrefix + command}* perfect combi`;
     conn.GURUPLAY = conn.GURUPLAY ? conn.GURUPLAY : {};
     await conn.reply(m.chat, wait, m);
     const result = await searchAndDownloadMusic(text);
-    const infoText = `🎵🎧🎼『 *𝓶𝓪𝓵𝓲𝓫𝓾 𝓫𝓸𝓽 𝓹𝓵𝓪𝔂𝓮𝓻* 』🎼🎧🎵
+    const infoText = `🎵🎧🎼『 *SMALLC* 』🎼🎧🎵
    
 *Rᴇᴘʟʏ ᴡɪᴛʜ ɴᴜᴍʙᴇʀ ᴛᴏ ɢᴇᴛ ᴛʜᴇ sᴏɴɢ*`;
 
